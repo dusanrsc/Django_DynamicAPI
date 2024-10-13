@@ -2,6 +2,5 @@
 # API Endpoint is How Backend and Frontend Communicate with Each Other...
 # This API Can Be Hosted And Used For: Web Application, Desktop Applications And Even Mobile Applications.
 # Screenshots:
-![screenshot](https://github.com/user-attachments/assets/3b2a039f-932f-41ee-96cf-960262d8ddf6)
-![screenshot1](https://github.com/user-attachments/assets/ab31565e-2492-44bc-8669-004d82b5d959)
-"# Django_DynamicAPI" 
+![screenshot](https://github.com/user-attachments/assets/570f6ab0-84f2-43c4-a5ce-9f61f219460f)
+![screenshot1](https://github.com/user-attachments/assets/ce63f0b5-17f8-4c7d-a876-bf6f44681baa)
